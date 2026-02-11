@@ -28,9 +28,9 @@ Valutazione della conformità per un laboratorio sanitario.
 ---
 
 ## 📬 Contatti
-- **LinkedIn:** [[[Il tuo Link LinkedIn](https://www.linkedin.com/in/shonelgeri/)]]
-- **Email:** [shonel.geri@gmail.com
-- **Location:** [Tua Città/Remote]
+- **LinkedIn:** [[Shonel Geri](https://www.linkedin.com/in/shonelgeri/)]
+- **Email:** [shonel.geri@gmail.com]
+- **Location:** [Milano/Remote]
 
 ---
 *Disclaimer: Tutti i progetti presentati sono simulazioni basate su casi studio realistici creati a scopo di portfolio professionale.*
